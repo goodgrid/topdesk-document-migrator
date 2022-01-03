@@ -48,3 +48,4 @@ If you would like to run a test run on a limited amount of persons, change the c
 
 - TODO: Implement rate limiting in the Topdesk API class
 - TODO: Implement some progress indication
+- TODO: Investigate the need to implement paging in the retrieval of incidents
